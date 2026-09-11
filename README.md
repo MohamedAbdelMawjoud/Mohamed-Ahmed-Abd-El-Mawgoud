@@ -1,7 +1,7 @@
 # Mohamed-Ahmed-Abd-El-Mawgoud
 
 
-### AI & Machine Learning Engineer in Progress 🤖
+### AI & Machine Learning Engineer 
 
 I'm a **Data Science using AI** student at the **Faculty of Computers and Data Science, Alexandria University**, passionate about building intelligent systems and turning data into practical AI solutions.
 
@@ -90,19 +90,19 @@ A real-time object detection system designed for intelligent transportation scen
 
 **Highlights:**
 
-* 🎯 3-class object detection
-* 📈 mAP@50: **94.2%**
-* 📊 mAP@50:95: **76.8%**
-* ⚡ ~250 FPS using GPU ONNX FP16
-* 📦 ~38.8 MB optimized model
-* 🔧 Hyperparameter optimization using Optuna
-* 🚀 Deployment-ready inference pipeline
+*  3-class object detection
+*  mAP@50: **94.2%**
+*  mAP@50:95: **76.8%**
+*  ~250 FPS using GPU ONNX FP16
+*  ~38.8 MB optimized model
+*  Hyperparameter optimization using Optuna
+*  Deployment-ready inference pipeline
 
 ---
 
 ##  Other Projects
 
-### 🎬 IMDb Sentiment Analysis
+###  IMDb Sentiment Analysis
 
 Compared traditional Machine Learning, RNN/LSTM, and Transformer-based approaches for sentiment classification.
 
@@ -118,7 +118,7 @@ Compared traditional Machine Learning, RNN/LSTM, and Transformer-based approache
 
 ---
 
-### 🌍 Intel Image Classification
+###  Intel Image Classification
 
 Multi-class image classification using CNN architectures and transfer learning.
 
@@ -127,7 +127,7 @@ Multi-class image classification using CNN architectures and transfer learning.
 
 ---
 
-### ⚽ Football Scouting AI
+###  Football Scouting AI
 
 An AI-driven football scouting project focused on player similarity, performance analysis, clustering, and recommendation.
 
@@ -136,7 +136,7 @@ An AI-driven football scouting project focused on player similarity, performance
 
 ---
 
-### 🐾 Animal Sound Classification
+###  Animal Sound Classification
 
 A machine learning system for classifying animal sounds across multiple species using audio feature extraction.
 
@@ -145,7 +145,7 @@ A machine learning system for classifying animal sounds across multiple species 
 
 ---
 
-## 🏆 Certifications & Training
+##  Certifications & Training
 
 * **Huawei HCIA-AI** — Huawei
 * **Machine Learning Training** — NTI
@@ -187,7 +187,7 @@ Currently focusing on:
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 My goal is to become a strong **Machine Learning / AI Engineer** capable of taking AI systems from:
 
@@ -197,7 +197,7 @@ My goal is to become a strong **Machine Learning / AI Engineer** capable of taki
 
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/mohamed-ahmed-039a25309/">

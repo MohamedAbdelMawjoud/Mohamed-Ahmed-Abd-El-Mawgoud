@@ -1,6 +1,5 @@
 # Mohamed-Ahmed-Abd-El-Mawgoud
 
-# Hi, I'm Mohamed Ahmed 👋
 
 ### AI & Machine Learning Engineer in Progress 🤖
 
@@ -10,15 +9,15 @@ My main focus is **Machine Learning, Deep Learning, NLP, Computer Vision, Transf
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 Data Science using AI Student at Alexandria University
-* 🤖 Aspiring **Machine Learning / AI Engineer**
-* 🧠 Interested in **Deep Learning, NLP, Computer Vision, Transformers & GenAI**
-* 📊 Experienced with Machine Learning and Data Science workflows
-* ⚡ Interested in building and deploying real-world AI applications
-* 🔬 Currently strengthening my knowledge in **Deep Learning, Transformers, and AI Engineering**
-* 💡 I enjoy learning by building projects and experimenting with different AI architectures
+*  Data Science using AI Student at Alexandria University
+*  Aspiring **Machine Learning / AI Engineer**
+*  Interested in **Deep Learning, NLP, Computer Vision, Transformers & GenAI**
+*  Experienced with Machine Learning and Data Science workflows
+*  Interested in building and deploying real-world AI applications
+*  Currently strengthening my knowledge in **Deep Learning, Transformers, and AI Engineering**
+*  I enjoy learning by building projects and experimenting with different AI architectures
 
 ---
 
@@ -65,7 +64,7 @@ My main focus is **Machine Learning, Deep Learning, NLP, Computer Vision, Transf
 
 ---
 
-## 🧠 Areas of Interest
+##  Areas of Interest
 
 * Machine Learning
 * Deep Learning
@@ -79,9 +78,9 @@ My main focus is **Machine Learning, Deep Learning, NLP, Computer Vision, Transf
 
 ---
 
-## ⭐ Featured Project
+##  Featured Project
 
-### 🚗 Road-Sense
+###  Road-Sense
 
 A real-time object detection system designed for intelligent transportation scenarios.
 
@@ -101,7 +100,7 @@ A real-time object detection system designed for intelligent transportation scen
 
 ---
 
-## 📚 Other Projects
+##  Other Projects
 
 ### 🎬 IMDb Sentiment Analysis
 
